@@ -4,7 +4,17 @@ This is a my first project  on computer vison , made use of media libraries like
 # Screenshots:
 
 Left hand detection :
+
+
+
+
+
 ![Screenshot 2024-01-14 223751](https://github.com/yssvi72/Hand-tracking-computer-vision/assets/141433982/0b7f470d-fe26-4889-a591-2b0c88d26261)
 
 Right hand detection: 
+
+
+
+
+
 ![Screenshot 2024-01-14 223751](https://github.com/yssvi72/Hand-tracking-computer-vision/assets/141433982/957509fd-389c-43d7-aa41-b618d806c9f1)
